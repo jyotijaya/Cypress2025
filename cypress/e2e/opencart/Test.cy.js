@@ -10,7 +10,7 @@ describe("suite-1",function()
     {   
         //validate title of page
         cy.visit(Cypress.env('url_home'));
-        cy.title().should('eq',"Your Store")
+        cy.title().should('eq',"Your Store");
     })
 })
 
