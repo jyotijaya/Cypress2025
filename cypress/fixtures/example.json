@@ -1,4 +1,10 @@
+[{
+  "skill":"javascript"
+},
 {
-  "email":"abc@gmail.com",
-  "password":"123456789"
+  "skill":"API"
+},
+{
+  "skill":"selenium"
 }
+]

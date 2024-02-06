@@ -3,6 +3,8 @@ export class Login
 
     webLocators=
     {
+        firstname:"#input-firstname",
+        lastname:"#input-lastname",
         email:"#input-email",
         password:"#input-password",
         loginbtn:"input[value='Login']"
